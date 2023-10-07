@@ -1,3 +1,2 @@
 print("Hola mundo")
-	hola
-amigos ven este cambio?
+hola amigos ya podemos hacer cambios
