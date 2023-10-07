@@ -10,3 +10,9 @@ else:
     print(impares)
 
 
+def promedio(numeros):
+    prom = sum(numeros)/len(numeros)
+    print (prom)
+numeros=[3,5,6,6,73,3,1]
+
+promedio(numeros)
