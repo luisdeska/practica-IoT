@@ -1,3 +1,4 @@
+
 def mostrar_impares(numero):
     impares = [str(i) for i in range(1, numero + 1) if i % 2 != 0]
     return ', '.join(impares)
@@ -12,3 +13,5 @@ try:
         print("Números impares hasta el número ingresado:", impares_hasta_numero)
 except ValueError:
     print("Debes ingresar un número entero válido.")
+
+
